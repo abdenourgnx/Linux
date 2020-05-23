@@ -1,0 +1,34 @@
+notebook > header {
+  background: transparent;
+  border: none;
+}
+notebook > header > tabs {
+  background: transparent;
+  margin-bottom : 2px ;
+  padding : 0;
+}
+notebook > header > tabs > tab {
+  background: rgba(0,0,0,0.40);
+  color: white ;
+  border-radius: 0 0 0 0;
+  border: 0;
+  margin: 0 2px;
+  padding: 6px;
+  min-width: 100px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+notebook > header > tabs > tab:checked {
+  background: rgba(0,0,0,0.80);
+  color: white;
+  border: 0;
+  border-bottom: none;
+}
+
+scrollbar {
+  background: #fcfcfc;
+  margin: 1;
+}
