@@ -1,6 +1,7 @@
 # Tilda Styling
 Installing and customizing **Tilda** terminal using config file and css styling
 
+![](perview/TildaStyle.png)
 
 
 ### Installing Tilda terminal 
