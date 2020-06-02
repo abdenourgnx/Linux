@@ -1,4 +1,4 @@
-#Nvim configuration
+# Nvim configuration
 Installing and configuring **Nvim** Text editor
 
 ![](perview/Screenshot1.png)
